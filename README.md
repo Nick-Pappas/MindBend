@@ -1,5 +1,5 @@
 # MindBend
-Old Project I had assigned to an intro to OOP using Java class I was teaching at UW-Madison. 
+Old Project I had assigned to an intro to OOP using Java class I was teaching at UW-Madison back this one from 2013. 
 
 This was their last project of the semester, and althought it looks insane, it really was not. Everybody did it. 
 
